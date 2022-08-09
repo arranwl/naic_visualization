@@ -1,0 +1,106 @@
+,NAICS,YEAR,VALUE
+0,All industries  ,2017,3.11
+1,"Agriculture, forestry, fishing and hunting  ",2017,2.3
+2,"Mining, quarrying, and oil and gas extraction  ",2017,9.52
+3,Utilities  ,2017,1.18
+4,Construction ,2017,3.72
+5,Manufacturing  ,2017,1.94
+6,Wholesale trade ,2017,3.48
+7,Retail trade ,2017,2.65
+8,Transportation and warehousing ,2017,6.08
+9,Information and cultural industries ,2017,3.59
+10,Finance and insurance  ,2017,7.16
+11,Real estate and rental and leasing  ,2017,2.83
+12,"Professional, scientific and technical services  ",2017,3.32
+13,Management of companies and enterprises  ,2017,-11.14
+14,"Administrative and support, waste management and remediation services ",2017,-1.11
+15,Educational services ,2017,1.55
+16,Health care and social assistance ,2017,1.21
+17,"Arts, entertainment and recreation  ",2017,5.12
+18,Accommodation and food services ,2017,1.25
+19,Other services (except public administration)  ,2017,3.67
+20,Public administration  ,2017,1.91
+21,All industries  ,2018,2.88
+22,"Agriculture, forestry, fishing and hunting  ",2018,-0.39
+23,"Mining, quarrying, and oil and gas extraction  ",2018,4.43
+24,Utilities  ,2018,2.26
+25,Construction ,2018,2.93
+26,Manufacturing  ,2018,3.06
+27,Wholesale trade ,2018,3.28
+28,Retail trade ,2018,2.69
+29,Transportation and warehousing ,2018,1.9
+30,Information and cultural industries ,2018,4.33
+31,Finance and insurance  ,2018,2.5
+32,Real estate and rental and leasing  ,2018,2.51
+33,"Professional, scientific and technical services  ",2018,4.67
+34,Management of companies and enterprises  ,2018,-25.04
+35,"Administrative and support, waste management and remediation services ",2018,3.12
+36,Educational services ,2018,3.54
+37,Health care and social assistance ,2018,3.32
+38,"Arts, entertainment and recreation  ",2018,1.98
+39,Accommodation and food services ,2018,2.27
+40,Other services (except public administration)  ,2018,1.56
+41,Public administration  ,2018,3.23
+42,All industries  ,2019,1.83
+43,"Agriculture, forestry, fishing and hunting  ",2019,3
+44,"Mining, quarrying, and oil and gas extraction  ",2019,-0.83
+45,Utilities  ,2019,0.76
+46,Construction ,2019,0.13
+47,Manufacturing  ,2019,-0.18
+48,Wholesale trade ,2019,2.49
+49,Retail trade ,2019,0.32
+50,Transportation and warehousing ,2019,1.6
+51,Information and cultural industries ,2019,5.18
+52,Finance and insurance  ,2019,2.84
+53,Real estate and rental and leasing  ,2019,2.64
+54,"Professional, scientific and technical services  ",2019,6.2
+55,Management of companies and enterprises  ,2019,-20.83
+56,"Administrative and support, waste management and remediation services ",2019,0.75
+57,Educational services ,2019,1.68
+58,Health care and social assistance ,2019,3.03
+59,"Arts, entertainment and recreation  ",2019,2.27
+60,Accommodation and food services ,2019,2.96
+61,Other services (except public administration)  ,2019,0.83
+62,Public administration  ,2019,2.17
+63,All industries  ,2020,-5.14
+64,"Agriculture, forestry, fishing and hunting  ",2020,3.33
+65,"Mining, quarrying, and oil and gas extraction  ",2020,-7.58
+66,Utilities  ,2020,-2.41
+67,Construction ,2020,-2.15
+68,Manufacturing  ,2020,-9.69
+69,Wholesale trade ,2020,-2.47
+70,Retail trade ,2020,-3.31
+71,Transportation and warehousing ,2020,-19.47
+72,Information and cultural industries ,2020,-2.06
+73,Finance and insurance  ,2020,4.59
+74,Real estate and rental and leasing  ,2020,1.45
+75,"Professional, scientific and technical services  ",2020,-2.68
+76,Management of companies and enterprises  ,2020,-29.13
+77,"Administrative and support, waste management and remediation services ",2020,-12.75
+78,Educational services ,2020,-5.95
+79,Health care and social assistance ,2020,-4.53
+80,"Arts, entertainment and recreation  ",2020,-41.03
+81,Accommodation and food services ,2020,-33.49
+82,Other services (except public administration)  ,2020,-15.47
+83,Public administration  ,2020,-1.4
+84,All industries  ,2021,4.94
+85,"Agriculture, forestry, fishing and hunting  ",2021,-6.54
+86,"Mining, quarrying, and oil and gas extraction  ",2021,6.46
+87,Utilities  ,2021,-1.4
+88,Construction ,2021,5.84
+89,Manufacturing  ,2021,4.46
+90,Wholesale trade ,2021,5.26
+91,Retail trade ,2021,7.35
+92,Transportation and warehousing ,2021,1.7
+93,Information and cultural industries ,2021,3.76
+94,Finance and insurance  ,2021,4.05
+95,Real estate and rental and leasing  ,2021,3.52
+96,"Professional, scientific and technical services  ",2021,6.95
+97,Management of companies and enterprises  ,2021,-26.55
+98,"Administrative and support, waste management and remediation services ",2021,3.85
+99,Educational services ,2021,6.52
+100,Health care and social assistance ,2021,8.29
+101,"Arts, entertainment and recreation  ",2021,4.41
+102,Accommodation and food services ,2021,14.92
+103,Other services (except public administration)  ,2021,8.23
+104,Public administration  ,2021,4.46

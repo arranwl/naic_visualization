@@ -1,0 +1,127 @@
+,NAICS,YEAR,VALUE
+0,All industries  ,2016,22064904.00
+1,"Agriculture, forestry, fishing and hunting  ",2016,471576.00
+2,"Mining, quarrying, and oil and gas extraction  ",2016,1632084.00
+3,Utilities  ,2016,497124.00
+4,Construction ,2016,1612776.00
+5,Manufacturing  ,2016,2267544.00
+6,Wholesale trade ,2016,1131036.00
+7,Retail trade ,2016,1135596.00
+8,Transportation and warehousing ,2016,971796.00
+9,Information and cultural industries ,2016,713676.00
+10,Finance and insurance  ,2016,1456620.00
+11,Real estate and rental and leasing  ,2016,2811012.00
+12,"Professional, scientific and technical services  ",2016,1278636.00
+13,Management of companies and enterprises  ,2016,121320.00
+14,"Administrative and support, waste management and remediation services ",2016,611640.00
+15,Educational services ,2016,1178928.00
+16,Health care and social assistance ,2016,1547640.00
+17,"Arts, entertainment and recreation  ",2016,171864.00
+18,Accommodation and food services ,2016,492828.00
+19,Other services (except public administration)  ,2016,440064.00
+20,Public administration  ,2016,1490340.00
+21,All industries  ,2017,22750824.00
+22,"Agriculture, forestry, fishing and hunting  ",2017,482412.00
+23,"Mining, quarrying, and oil and gas extraction  ",2017,1787412.00
+24,Utilities  ,2017,503004.00
+25,Construction ,2017,1672740.00
+26,Manufacturing  ,2017,2311644.00
+27,Wholesale trade ,2017,1170348.00
+28,Retail trade ,2017,1165704.00
+29,Transportation and warehousing ,2017,1030836.00
+30,Information and cultural industries ,2017,739284.00
+31,Finance and insurance  ,2017,1560972.00
+32,Real estate and rental and leasing  ,2017,2890512.00
+33,"Professional, scientific and technical services  ",2017,1321044.00
+34,Management of companies and enterprises  ,2017,107808.00
+35,"Administrative and support, waste management and remediation services ",2017,604836.00
+36,Educational services ,2017,1197144.00
+37,Health care and social assistance ,2017,1566432.00
+38,"Arts, entertainment and recreation  ",2017,180672.00
+39,Accommodation and food services ,2017,498984.00
+40,Other services (except public administration)  ,2017,456204.00
+41,Public administration  ,2017,1518804.00
+42,All industries  ,2018,23405088.00
+43,"Agriculture, forestry, fishing and hunting  ",2018,480552.00
+44,"Mining, quarrying, and oil and gas extraction  ",2018,1866624.00
+45,Utilities  ,2018,514380.00
+46,Construction ,2018,1721772.00
+47,Manufacturing  ,2018,2382372.00
+48,Wholesale trade ,2018,1208688.00
+49,Retail trade ,2018,1197012.00
+50,Transportation and warehousing ,2018,1050420.00
+51,Information and cultural industries ,2018,771300.00
+52,Finance and insurance  ,2018,1599972.00
+53,Real estate and rental and leasing  ,2018,2963160.00
+54,"Professional, scientific and technical services  ",2018,1382676.00
+55,Management of companies and enterprises  ,2018,80808.00
+56,"Administrative and support, waste management and remediation services ",2018,623700.00
+57,Educational services ,2018,1239492.00
+58,Health care and social assistance ,2018,1618392.00
+59,"Arts, entertainment and recreation  ",2018,184248.00
+60,Accommodation and food services ,2018,510312.00
+61,Other services (except public administration)  ,2018,463332.00
+62,Public administration  ,2018,1567812.00
+63,All industries  ,2019,23834196.00
+64,"Agriculture, forestry, fishing and hunting  ",2019,494952.00
+65,"Mining, quarrying, and oil and gas extraction  ",2019,1851108.00
+66,Utilities  ,2019,518292.00
+67,Construction ,2019,1724064.00
+68,Manufacturing  ,2019,2378100.00
+69,Wholesale trade ,2019,1238784.00
+70,Retail trade ,2019,1200888.00
+71,Transportation and warehousing ,2019,1067244.00
+72,Information and cultural industries ,2019,811248.00
+73,Finance and insurance  ,2019,1645380.00
+74,Real estate and rental and leasing  ,2019,3041484.00
+75,"Professional, scientific and technical services  ",2019,1468344.00
+76,Management of companies and enterprises  ,2019,63972.00
+77,"Administrative and support, waste management and remediation services ",2019,628368.00
+78,Educational services ,2019,1260324.00
+79,Health care and social assistance ,2019,1667472.00
+80,"Arts, entertainment and recreation  ",2019,188436.00
+81,Accommodation and food services ,2019,525408.00
+82,Other services (except public administration)  ,2019,467184.00
+83,Public administration  ,2019,1601832.00
+84,All industries  ,2020,22608996.00
+85,"Agriculture, forestry, fishing and hunting  ",2020,511428.00
+86,"Mining, quarrying, and oil and gas extraction  ",2020,1710720.00
+87,Utilities  ,2020,505776.00
+88,Construction ,2020,1687056.00
+89,Manufacturing  ,2020,2147772.00
+90,Wholesale trade ,2020,1208220.00
+91,Retail trade ,2020,1161108.00
+92,Transportation and warehousing ,2020,859440.00
+93,Information and cultural industries ,2020,794568.00
+94,Finance and insurance  ,2020,1720848.00
+95,Real estate and rental and leasing  ,2020,3085548.00
+96,"Professional, scientific and technical services  ",2020,1428960.00
+97,Management of companies and enterprises  ,2020,45336.00
+98,"Administrative and support, waste management and remediation services ",2020,548268.00
+99,Educational services ,2020,1185384.00
+100,Health care and social assistance ,2020,1591920.00
+101,"Arts, entertainment and recreation  ",2020,111120.00
+102,Accommodation and food services ,2020,349464.00
+103,Other services (except public administration)  ,2020,394932.00
+104,Public administration  ,2020,1579356.00
+105,All industries  ,2021,23725891.00
+106,"Agriculture, forestry, fishing and hunting  ",2021,477961.00
+107,"Mining, quarrying, and oil and gas extraction  ",2021,1821178.00
+108,Utilities  ,2021,498694.00
+109,Construction ,2021,1785534.00
+110,Manufacturing  ,2021,2243500.00
+111,Wholesale trade ,2021,1271795.00
+112,Retail trade ,2021,1246459.00
+113,Transportation and warehousing ,2021,874040.00
+114,Information and cultural industries ,2021,824462.00
+115,Finance and insurance  ,2021,1790587.00
+116,Real estate and rental and leasing  ,2021,3194082.00
+117,"Professional, scientific and technical services  ",2021,1528211.00
+118,Management of companies and enterprises  ,2021,33300.00
+119,"Administrative and support, waste management and remediation services ",2021,569372.00
+120,Educational services ,2021,1262702.00
+121,Health care and social assistance ,2021,1723885.00
+122,"Arts, entertainment and recreation  ",2021,116017.00
+123,Accommodation and food services ,2021,401614.00
+124,Other services (except public administration)  ,2021,427432.00
+125,Public administration  ,2021,1649803.00
